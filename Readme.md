@@ -1,0 +1,1 @@
+If I will ever have dotfiles, they would be stored here)
