@@ -1,3 +1,3 @@
-require("config.lazy")
 require("blud")
-print("Hello")
+require("config.lazy")
+require("config")

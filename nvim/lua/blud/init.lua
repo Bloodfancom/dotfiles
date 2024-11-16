@@ -1,1 +1,5 @@
-print("Hi Tenno")
+--require("blud.vcvarsall")
+require("blud.remap")
+require("blud.colors")
+require("blud.set")
+require("blud.russian-langmap")
